@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjay S
 
-💻 **Technical Support Engineer** | 🌐 Microsoft Azure  | 📍 Based in India  
+💻 **Technical Support Engineer** | 🌐 Microsoft Azure  | 📍 Based in India
 🚀 Passionate about solving complex technical problems and ensuring seamless IT operations.
 
 ---
